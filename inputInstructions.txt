@@ -1,0 +1,16 @@
+				Brief Instructions on How To Provide Input Into the Program:
+--CHOOSING MENU OPTIONS--
+	The program itself prompts the user with very detailed specifics as to what kind of input to put in.
+	The code is not case sensitive, but it is sensitive to spaces. For example, if A: Add Calendar is an option
+	for the user, the input can be "a" or "A" with no errors.
+	
+--INPUT FOR E: ADD EVENT--
+	The input for anything event related is very sensitive to the amount of spaces as well as the formatting
+	for the space and for the date.
+	For example, if an event is set to start at 11am, the input must be "11:00:00 am" with that exact amount
+	of spacing and information.
+	For example, if the event is set to start on March 3, the input must be "March 3" with no extra whitespace. 
+--OVERALL INPUT--
+	The instructions I typed out were trying to be as descriptive as possible, so for all other scenarios, 
+	the input should be easy to follow, considering I provided examples as I did above. 
+	
